@@ -1,6 +1,5 @@
 numpy
 matplotlib
-time
 csv
 subprocess
 glob
