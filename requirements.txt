@@ -1,4 +1,3 @@
 numpy
 matplotlib
-glob
 itertools
