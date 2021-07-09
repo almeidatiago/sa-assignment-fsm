@@ -1,6 +1,5 @@
 numpy
 matplotlib
-csv
 subprocess
 glob
 itertools
