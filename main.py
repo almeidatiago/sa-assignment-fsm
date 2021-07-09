@@ -4,7 +4,7 @@
 # In[232]:
 
 
-get_ipython().run_line_magic('matplotlib', 'inline')
+#get_ipython().run_line_magic('matplotlib', 'inline')
 import os
 import sys
 import string
