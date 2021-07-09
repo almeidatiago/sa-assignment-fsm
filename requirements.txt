@@ -1,3 +1,12 @@
 numpy
 matplotlib
-sympy
+os
+sys
+string
+math
+random
+time
+csv
+subprocess
+glob
+itertools
