@@ -1,6 +1,5 @@
 numpy
 matplotlib
-math
 random
 time
 csv
