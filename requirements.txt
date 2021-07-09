@@ -1,6 +1,5 @@
 numpy
 matplotlib
-sys
 string
 math
 random
